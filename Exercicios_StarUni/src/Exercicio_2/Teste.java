@@ -36,11 +36,9 @@ public class Teste {
                 System.out.println(f2d.calcularArea());
             }
             
-            if (figura instanceof Figura2D){
-                Figura2D f3d = (Figura2D) figura;
-                System.out.println(f3d.calcularArea());
+           
                 
-            }
+            
             
         }
     }

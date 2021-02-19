@@ -22,11 +22,9 @@ public class Multiplicar {
         if(valor >= 3000 || valor<0){
             System.out.println("Valor Invalidoo");
             
-        }
-        else if(valor2 >= 3000 || valor2 < 0){
+        }else if(valor2 >= 3000 || valor2 < 0){
             System.out.println("Valor Invalido");
-        }
-        else {
+        }else {
          for(valor2=12; valor2<=17;valor2++){
             int mult = valor *valor2 ;
            
